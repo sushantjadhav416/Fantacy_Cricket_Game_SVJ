@@ -2,7 +2,7 @@
 Fantacy Cricket Game is a desktop-based application that allows users to experience the excitement of cricket matches. Whether you’re a cricket enthusiast or just curious, this game provides an immersive gaming experience.
 # Requirements
 Before running the Fantacy Cricket Game, ensure you have the following:
-- Java Development Kit (JDK): Version 8 or higher.
+- Python 3.9  with PyQt , SQLlite this packages install.
 - Operating System: Windows, macOS, or Linux.
 
 # Project Setup 
